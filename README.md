@@ -3,7 +3,7 @@
 
 I am an aspiring Cybersecurity and Information Technology professional with experience covering multiple roles and skill sets, including military combat operations, software application customer support, and government acquisitions/procurement.
 
-I am currently pursuing a Bachelor’s degree in Cybersecurity and Information Assurance from Western Governors University (WGU), an NSA-designated National Center of Academic Excellence in Cyber Defense. With an anticipated completion by December 2025, this program has already deepened my understanding of IT and cybersecurity foundations. Alongside my degree coursework, I have earned certifications in CompTIA A+, Network+, Security+, ITIL 4 Foundations, and LPI Linux Essentials, and will complete further industry-standard certifications as part of my program.
+I am currently pursuing a Bachelor’s degree in Cybersecurity and Information Assurance from Western Governors University (WGU), an NSA-designated National Center of Academic Excellence in Cyber Defense program. With an anticipated completion by December 2025, this program has deepened my understanding of IT and cybersecurity foundations. Alongside my degree coursework, I have earned certifications in CompTIA A+, Network+, Security+, ITIL 4 Foundations, and LPI Linux Essentials, and will complete further industry-standard certifications as part of my program.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
